@@ -14,6 +14,12 @@ h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Text shadow for headings */
 }
 
+ul {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+}
+
 .playlist {
     margin: 20px;
     padding: 20px; /* Increased padding */
